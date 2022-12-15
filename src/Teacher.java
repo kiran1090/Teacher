@@ -1,6 +1,6 @@
 public class Teacher {
-    private String name;
-    private String department;
+     String name;
+     String department;
     Teacher (String name,String department)
     {
         this.name=name;
