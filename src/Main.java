@@ -4,6 +4,8 @@ public class Main {
 Teacher teacherOne= new Teacher("raju","bsc");
 Teacher teacherTwo= new Teacher("ram","ba");
 
-    System.out.println(teacherTwo);
+    System.out.println(teacherOne.name);
+    System.out.println(teacherTwo.department);
+
     }
 }
